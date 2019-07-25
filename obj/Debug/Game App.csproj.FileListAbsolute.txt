@@ -1,0 +1,7 @@
+C:\Users\Afripro2019\Desktop\Game App\bin\Debug\Game App.exe.config
+C:\Users\Afripro2019\Desktop\Game App\bin\Debug\Game App.exe
+C:\Users\Afripro2019\Desktop\Game App\bin\Debug\Game App.pdb
+C:\Users\Afripro2019\Desktop\Game App\obj\Debug\Game App.csproj.CoreCompileInputs.cache
+C:\Users\Afripro2019\Desktop\Game App\obj\Debug\Game App.exe
+C:\Users\Afripro2019\Desktop\Game App\obj\Debug\Game App.pdb
+C:\Users\Afripro2019\Desktop\Game App\obj\Debug\Game App.csprojAssemblyReference.cache
